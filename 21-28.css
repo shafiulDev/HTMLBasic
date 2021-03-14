@@ -1,0 +1,28 @@
+p{
+	color:red;
+	
+	
+}
+.bold{
+	font-weight:bold;
+	color:green;
+	font-size:3em;
+	font-family:Fantasy;
+	
+		
+}
+.abc{
+	font-variant:small-caps;
+	font-size:3em;
+	
+	
+}
+.italic{
+		font-style:italic;
+	}
+	
+.unic{
+		 text-transform:uppercase;
+		 
+	 }
+	

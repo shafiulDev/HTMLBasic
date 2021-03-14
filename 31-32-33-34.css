@@ -1,0 +1,16 @@
+p{
+	background-image:url("img/flower.jpg");
+	background-repeat:repeat-x;
+	background-size:400 px 200px;
+	 
+	
+}
+table{
+	width:800px;
+	text-align:center;
+	
+}
+.table_left{
+	text-align:left
+	
+}
